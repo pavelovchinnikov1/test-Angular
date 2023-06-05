@@ -1,0 +1,33 @@
+.login-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  .login-main-title {
+    .title-main {
+      font-size: 60px;
+      font-weight: bold;
+      color: rgb(50, 50, 50);
+    }
+  }
+
+  .login-fields {
+    .row {
+      margin-top: 80px;
+    }
+  }
+
+  .login-button-enter {
+    text-align: center;
+
+    margin-top: 10px;
+
+    .login-btn {
+      height: 50px;
+      width: 180px;
+      font-size: 20px;
+    }
+  }
+}

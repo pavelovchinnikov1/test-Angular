@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "https://core.nekta.cloud",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
+  
